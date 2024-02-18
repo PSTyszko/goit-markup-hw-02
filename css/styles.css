@@ -1,13 +1,13 @@
 body {
   font-family: "Roboto", sans-serif;
   background-color: #ffff;
-  color: #2e2f42;
+  color: #434455;
 }
 .logo {
   font-family: "Raleway", sans-serif;
   font-weight: 700;
   font-size: 18px;
-  line-height: 1.16667;
+  line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #4d5ae5;
@@ -15,10 +15,10 @@ body {
 }
 .logo:hover,
 .logo:focus {
-  background-color: #0011d0;
+  background-color: #404bbf;
 }
 .logo:active {
-  background-color: #000864;
+  background-color: #404bbf;
 }
 .logo-dark {
   color: #2e2f42;
@@ -72,7 +72,6 @@ li {
   background: #f4f4fd;
 }
 .button {
-  box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
   background: #4d5ae5;
   font-family: "Roboto", sans-serif;
   font-weight: 500;
@@ -81,11 +80,12 @@ li {
   letter-spacing: 0.04em;
   color: #fff;
 }
+
 h3 {
   font-family: "Roboto", sans-serif;
   font-weight: 500;
   font-size: 20px;
-  line-height: 1.2;
+  line-height: 1.11;
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
@@ -111,8 +111,16 @@ h2 {
   font-family: "Roboto", sans-serif;
   font-weight: 400;
   font-size: 16px;
-  line-height: 1.5;
+  line-height: 1.17;
   letter-spacing: 0.02em;
   color: #f4f4fd;
   background: #2e2f42;
+}
+.portfolio-li {
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.11;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
 }
