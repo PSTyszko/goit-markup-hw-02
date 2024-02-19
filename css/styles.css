@@ -75,6 +75,9 @@ li {
   color: #fff;
 }
 .section-two {
+  line-height: 1.2;
+}
+.section-three {
   background: #f4f4fd;
 }
 .button {
