@@ -59,6 +59,7 @@ body {
 .adress:hover,
 .adress:focus {
   background-color: #0011d0;
+  color: #404bbf;
 }
 li {
   list-style-type: none;
