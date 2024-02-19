@@ -39,6 +39,7 @@ body {
 .nav-menu:hover,
 .nav-menu:focus {
   background-color: #0011d0;
+  color: #404bbf;
 }
 .nav-menu:active {
   background-color: #000864;
@@ -80,7 +81,7 @@ li {
   font-family: "Roboto", sans-serif;
   font-weight: 500;
   font-size: 16px;
-  line-height: 1.5;
+  line-height: 1.2;
   letter-spacing: 0.04em;
   color: #fff;
 }
