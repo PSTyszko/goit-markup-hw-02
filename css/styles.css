@@ -43,6 +43,9 @@ body {
 .nav-menu:active {
   background-color: #000864;
 }
+.head-adress {
+  font-style: normal;
+}
 .adress {
   font-family: "Roboto", sans-serif;
   font-weight: 400;
@@ -51,7 +54,6 @@ body {
   letter-spacing: 0.02em;
   color: #434455;
   text-decoration: none;
-  font-style: normal;
 }
 .adress:hover,
 .adress:focus {
