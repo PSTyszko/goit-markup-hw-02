@@ -95,6 +95,14 @@ li {
 .mark-white {
   background-color: #ffffff;
 }
+.title-four {
+  font-size: 36px;
+  line-height: 1.11;
+  text-align: center;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
+  color: #2e2f42;
+}
 .button {
   background: #4d5ae5;
   font-family: "Roboto", sans-serif;
