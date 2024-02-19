@@ -66,10 +66,12 @@ li {
 }
 .section-one {
   background: #2e2f42;
+}
+.title-one {
   font-family: "Roboto", sans-serif;
   font-weight: 700;
   font-size: 56px;
-  line-height: 1.07143;
+  line-height: 1.07;
   letter-spacing: 0.02em;
   text-align: center;
   color: #fff;
@@ -85,11 +87,16 @@ li {
   font-family: "Roboto", sans-serif;
   font-weight: 500;
   font-size: 16px;
-  line-height: 1.2;
+  line-height: 1.5;
   letter-spacing: 0.04em;
   color: #fff;
+  cursor: pointer;
 }
-
+.button:hover,
+.button:focus {
+  background-color: #404bbf;
+  color: #404bbf;
+}
 .names {
   font-family: "Roboto", sans-serif;
   font-weight: 500;
