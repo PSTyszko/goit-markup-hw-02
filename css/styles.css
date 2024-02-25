@@ -303,6 +303,10 @@ li {
       height: 312px;
       padding: 100px 0;
 }
+.footer-logo {
+display: inline-block;
+  margin-bottom: 16px;
+}
 
 .logo-white {
       color: #f4f4fd;
