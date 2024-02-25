@@ -15,7 +15,6 @@ body {
 }
 .logo:hover,
 .logo:focus {
-  background-color: #404bbf;
   color: #404bbf;
 }
 .logo:active {
@@ -38,7 +37,6 @@ body {
 }
 .nav-menu:hover,
 .nav-menu:focus {
-  background-color: #0011d0;
   color: #404bbf;
 }
 .nav-menu:active {
@@ -58,7 +56,6 @@ body {
 }
 .adress:hover,
 .adress:focus {
-  background-color: #0011d0;
   color: #404bbf;
 }
 li {
@@ -84,7 +81,7 @@ li {
 }
 .title-three {
   font-family: "Roboto", sans-serif;
-  font-weight: 500;
+  font-weight: 700;
   font-size: 36px;
   line-height: 1.11;
   text-align: center;
@@ -116,7 +113,6 @@ li {
 .button:hover,
 .button:focus {
   background-color: #404bbf;
-  color: #404bbf;
 }
 .names {
   font-family: "Roboto", sans-serif;
