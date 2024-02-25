@@ -183,6 +183,10 @@ section {
   background-color: #404bbf;
 }
 
+.button-click:active {
+  background-color: #404bbf;
+}
+
 .section-two {
   padding: 120px 0;
 }
@@ -291,39 +295,20 @@ li {
         border-top: none;
 }
 
-.header2 {
-  font-family: "Roboto", sans-serif;
-  font-weight: 700;
-  font-size: 36px;
-  line-height: 1.11111;
-  letter-spacing: 0.02em;
-  text-transform: capitalize;
-  text-align: center;
-  color: #2e2f42;
-}
 .footer {
-  font-family: "Roboto", sans-serif;
-  font-weight: 400;
-  font-size: 16px;
-  line-height: 1.17;
-  letter-spacing: 0.02em;
-  color: #f4f4fd;
-  background: #2e2f42;
-}
-.footer-text {
-  color: #f4f4fd;
-  line-height: 1.5;
-}
-
-.portfolio-li {
-  font-family: "Roboto", sans-serif;
-  font-weight: 500;
-  font-size: 20px;
-  line-height: 1.11;
-  letter-spacing: 0.02em;
-  color: #2e2f42;
+    background-color: #2e2f42;
+      height: 312px;
+      padding: 100px 0;
 }
 
 .logo-white {
+      color: #f4f4fd;
+        display: block;
+        flex-wrap: wrap;
+        width: 264px;
+}
+
+.footer-text {
   color: #f4f4fd;
+  line-height: 1.5;
 }
