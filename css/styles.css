@@ -309,6 +309,8 @@ li {
 }
 
 .footer-text {
-  color: #f4f4fd;
-  line-height: 1.5;
+      color: #f4f4fd;
+        display: block;
+        flex-wrap: wrap;
+        width: 264px;
 }
